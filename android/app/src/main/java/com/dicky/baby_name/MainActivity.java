@@ -1,4 +1,4 @@
-package com.example.baby_name;
+package com.dicky.baby_name;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
